@@ -18,7 +18,7 @@ When the program runs, the user sees a menu:
 3. Length Converter
 4. Exit
 
-The user selects an option, enters a value, and the program prints the converted result.
+After selecting a converter, the user chooses the conversion direction, enters a value, and the program prints the converted result.
 
 ## Technologies Used
 
