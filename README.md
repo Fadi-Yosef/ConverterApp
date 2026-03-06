@@ -28,18 +28,28 @@ The user selects an option, enters a value, and the program prints the converted
 
 ## Example Output
 
-=== Converter App ===  
-1. Currency Converter  
-2. Temperature Converter  
-3. Length Converter  
-4. Exit  
+=== Converter App ===
 
-Choose an option: 1
+1. Currency Converter
 
-Enter amount in SEK: 100
+2. Temperature Converter
 
-Result: 100 SEK = 9.00 USD
+3. Length Converter
 
+4. Exit
+
+Choose an option: 2
+
+Temperature Converter
+
+1. Celsius to Fahrenheit
+
+2. Fahrenheit to Celsius
+
+Enter temperature: 25
+
+Result: 25°C = 77°F
+____________________
 ## Author
 
 Fadi-Yosef
